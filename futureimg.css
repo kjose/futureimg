@@ -1,0 +1,10 @@
+.futureimg {
+	display: none;
+	max-width: none;
+	width:0;
+	height:0;
+	max-width:0;
+	max-height:0;
+	visibility: hidden;
+	z-index: 0;
+}
